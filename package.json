@@ -1,0 +1,25 @@
+{
+  "name": "@glukki/parcel-plugin-geojson",
+  "version": "0.0.1",
+  "description": "Parcel plugin to load GeoJSON files as a regular JSON",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "parcel",
+    "plugin",
+    "geojson",
+    "json"
+  ],
+  "author": "Vitaliy Meshchaninov",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glukki/parcel-plugin-geojson.git"
+  },
+  "bugs": {
+    "url": "https://github.com/glukki/parcel-plugin-geojson/issues"
+  },
+  "homepage": "https://github.com/glukki/parcel-plugin-geojson#readme"
+}
